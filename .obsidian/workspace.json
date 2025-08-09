@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c4ce24fe8547c5a",
+        "id": "3e4aacf15b98780b",
         "type": "tabs",
         "children": [
           {
-            "id": "96fc9bd5ca63dd47",
+            "id": "0b68e32e41b2d07b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,38 +22,38 @@
             }
           },
           {
-            "id": "885d7b99874ba34c",
+            "id": "318f626fd3d6e5c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0015.三数之和.md",
+                "file": "problems/0101.对称二叉树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0015.三数之和"
+              "title": "0101.对称二叉树"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "b92e6ff890ac9654",
+        "id": "3a51008db7b0316f",
         "type": "tabs",
         "children": [
           {
-            "id": "878f0684dac7825e",
+            "id": "fdd3255d05320018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己总结/哈希表.md",
+                "file": "自己总结/二叉树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "哈希表"
+              "title": "二叉树"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自己总结/哈希表.md",
+                "file": "自己总结/栈与队列.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "哈希表 的反向链接列表"
+              "title": "栈与队列 的反向链接列表"
             }
           },
           {
@@ -204,37 +204,39 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "878f0684dac7825e",
+  "active": "fdd3255d05320018",
   "lastOpenFiles": [
-    "problems/0015.三数之和.md",
-    "自己总结/哈希表.md",
+    "problems/0101.对称二叉树.md",
     "README.md",
-    "problems/0383.赎金信.md",
-    "problems/0454.四数相加II.md",
-    "两数.md",
-    "problems/0001.两数之和.md",
-    "两数之和.md",
-    "problems/0202.快乐数.md",
-    "problems/0349.两个数组的交集.md",
-    "problems/1002.查找常用字符.md",
-    "problems/0242.有效的字母异位词.md",
-    "problems/哈希表理论基础.md",
-    "自己总结/数组和链表.md",
-    "自己总结/未命名",
-    "自己总结/牛顿迭代法.md",
+    "自己总结/二叉树.md",
+    "problems/周总结/20200927二叉树周末总结.md",
+    "problems/0226.翻转二叉树.md",
+    "自己总结/哈希表.md",
+    "problems/0102.二叉树的层序遍历.md",
+    "problems/二叉树的统一迭代法.md",
+    "problems/二叉树的迭代遍历.md",
+    "problems/二叉树的递归遍历.md",
+    "problems/二叉树理论基础.md",
+    "problems/栈与队列总结.md",
+    "自己总结/栈与队列.md",
     "problems/0347.前K个高频元素.md",
-    "problems/面试题02.07.链表相交.md",
-    "problems/0142.环形链表II.md",
-    "problems/链表总结篇.md",
-    "problems/0209.长度最小的子数组.md",
-    "problems/链表理论基础.md",
-    "problems/0019.删除链表的倒数第N个节点.md",
-    "problems/0024.两两交换链表中的节点.md",
+    "problems/0239.滑动窗口最大值.md",
+    "problems/0150.逆波兰表达式求值.md",
+    "自己总结/字符串.md",
+    "problems/1047.删除字符串中的所有相邻重复项.md",
+    "problems/0020.有效的括号.md",
+    "problems/0225.用队列实现栈.md",
+    "problems/0232.用栈实现队列.md",
+    "problems/栈与队列理论基础.md",
+    "problems/0459.重复的子字符串.md",
+    "568fd90dec3e671bc6fec03bb0f33a01 1.jpg",
+    "568fd90dec3e671bc6fec03bb0f33a01.jpg",
+    "problems/双指针总结.md",
     "problems/0206.翻转链表.md",
-    "problems/0707.设计链表.md",
-    "problems/0203.移除链表元素.md",
+    "problems/0027.移除元素.md",
     "未命名.canvas",
     "1.png",
+    "自己总结/未命名",
     "自己总结"
   ]
 }
