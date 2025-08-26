@@ -50,7 +50,8 @@
               "title": "0101.对称二叉树"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3a51008db7b0316f",
@@ -222,11 +223,12 @@
   },
   "active": "fdd3255d05320018",
   "lastOpenFiles": [
+    "算法竞赛从入门到进阶 (罗勇军, 郭卫斌) (Z-Library).pdf",
+    "problems/0101.对称二叉树.md",
+    "自己总结/二叉树.md",
     "自己总结/字符串.md",
     "自己总结/哈希表.md",
-    "自己总结/二叉树.md",
     "README.md",
-    "problems/0101.对称二叉树.md",
     "problems/0104.二叉树的最大深度.md",
     "problems/周总结/20200927二叉树周末总结.md",
     "problems/0226.翻转二叉树.md",
@@ -249,7 +251,6 @@
     "568fd90dec3e671bc6fec03bb0f33a01 1.jpg",
     "568fd90dec3e671bc6fec03bb0f33a01.jpg",
     "problems/双指针总结.md",
-    "problems/0206.翻转链表.md",
     "未命名.canvas",
     "1.png",
     "自己总结/未命名",
