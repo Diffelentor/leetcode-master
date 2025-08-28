@@ -23,17 +23,17 @@
             }
           },
           {
-            "id": "6545e51c23b5fff1",
+            "id": "461c54a1d1dd8ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0106.从中序与后序遍历序列构造二叉树.md",
+                "file": "problems/0617.合并二叉树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0106.从中序与后序遍历序列构造二叉树"
+              "title": "0617.合并二叉树"
             }
           }
         ],
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "problems/0349.两个数组的交集.md",
+                "file": "自己总结/二叉树.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0349.两个数组的交集 的大纲"
+              "title": "二叉树 的大纲"
             }
           },
           {
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "503",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,9 +209,13 @@
   },
   "active": "fdd3255d05320018",
   "lastOpenFiles": [
-    "problems/0106.从中序与后序遍历序列构造二叉树.md",
+    "problems/0617.合并二叉树.md",
     "README.md",
+    "problems/0503.下一个更大元素II.md",
     "自己总结/二叉树.md",
+    "problems/周总结/20201010二叉树周末总结.md",
+    "problems/0654.最大二叉树.md",
+    "problems/0106.从中序与后序遍历序列构造二叉树.md",
     "problems/0112.路径总和.md",
     "problems/0513.找树左下角的值.md",
     "problems/0404.左叶子之和.md",
@@ -241,10 +245,6 @@
     "problems/0102.二叉树的层序遍历.md",
     "problems/二叉树的统一迭代法.md",
     "problems/二叉树的迭代遍历.md",
-    "problems/二叉树的递归遍历.md",
-    "problems/二叉树理论基础.md",
-    "problems/栈与队列总结.md",
-    "problems/0347.前K个高频元素.md",
     "568fd90dec3e671bc6fec03bb0f33a01 1.jpg",
     "568fd90dec3e671bc6fec03bb0f33a01.jpg",
     "未命名.canvas",
