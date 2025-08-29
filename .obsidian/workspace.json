@@ -23,17 +23,17 @@
             }
           },
           {
-            "id": "461c54a1d1dd8ef6",
+            "id": "ba2fb175d9978a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0617.合并二叉树.md",
+                "file": "problems/0669.修剪二叉搜索树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0617.合并二叉树"
+              "title": "0669.修剪二叉搜索树"
             }
           }
         ],
@@ -126,7 +126,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,10 +210,20 @@
   },
   "active": "fdd3255d05320018",
   "lastOpenFiles": [
-    "problems/0617.合并二叉树.md",
+    "problems/0669.修剪二叉搜索树.md",
     "README.md",
-    "problems/0503.下一个更大元素II.md",
     "自己总结/二叉树.md",
+    "problems/0450.删除二叉搜索树中的节点.md",
+    "problems/0701.二叉搜索树中的插入操作.md",
+    "problems/0235.二叉搜索树的最近公共祖先.md",
+    "problems/周总结/20201017二叉树周末总结.md",
+    "problems/0236.二叉树的最近公共祖先.md",
+    "problems/0501.二叉搜索树中的众数.md",
+    "problems/0530.二叉搜索树的最小绝对差.md",
+    "problems/0098.验证二叉搜索树.md",
+    "problems/0700.二叉搜索树中的搜索.md",
+    "problems/0617.合并二叉树.md",
+    "problems/0503.下一个更大元素II.md",
     "problems/周总结/20201010二叉树周末总结.md",
     "problems/0654.最大二叉树.md",
     "problems/0106.从中序与后序遍历序列构造二叉树.md",
@@ -225,8 +236,6 @@
     "problems/0222.完全二叉树的节点个数.md",
     "problems/0111.二叉树的最小深度.md",
     "problems/0104.二叉树的最大深度.md",
-    "自己总结/栈与队列.md",
-    "problems/0101.对称二叉树.md",
     "代码/UOJ_763._树哈希_1.ans.TkkuVT",
     "代码/UOJ_763._树哈希_1.in.ydbfhK",
     "代码/UOJ_763._树哈希.cpp.DEBiGX",
@@ -237,14 +246,6 @@
     "代码/UOJ_763._树哈希_1.in.cXuQeb",
     "代码/UOJ_763._树哈希.cpp.paYKlg",
     "代码/UOJ_763._树哈希_1.ans.tMYbMo",
-    "自己总结/数组和链表.md",
-    "自己总结/字符串.md",
-    "自己总结/哈希表.md",
-    "problems/周总结/20200927二叉树周末总结.md",
-    "problems/0226.翻转二叉树.md",
-    "problems/0102.二叉树的层序遍历.md",
-    "problems/二叉树的统一迭代法.md",
-    "problems/二叉树的迭代遍历.md",
     "568fd90dec3e671bc6fec03bb0f33a01 1.jpg",
     "568fd90dec3e671bc6fec03bb0f33a01.jpg",
     "未命名.canvas",
