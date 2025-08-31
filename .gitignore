@@ -5,3 +5,5 @@
 .cache
 *.iml
 __pycache__
+/.obsidian
+/.obsidian
