@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4aacf15b98780b",
+        "id": "8a53c94116b474a3",
         "type": "tabs",
         "children": [
           {
-            "id": "318f626fd3d6e5c8",
+            "id": "baacae476d3dfd1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,28 +22,28 @@
             }
           },
           {
-            "id": "0b68466a3ced681f",
+            "id": "59ca0a4d7b1b911c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0131.分割回文串.md",
+                "file": "problems/0669.修剪二叉搜索树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0131.分割回文串"
+              "title": "0669.修剪二叉搜索树"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7382ad67f8c1d759",
+        "id": "5511f6ae6e8cd87e",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb7ea3c82b69e37",
+            "id": "86368ab6ec487b90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "problems/0349.两个数组的交集.md",
+                "file": "problems/0669.修剪二叉搜索树.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0349.两个数组的交集 的大纲"
+              "title": "0669.修剪二叉搜索树 的大纲"
             }
           },
           {
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自己总结/栈与队列.md",
+                "file": "自己总结/二叉树.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "栈与队列 的反向链接列表"
+              "title": "二叉树 的反向链接列表"
             }
           },
           {
@@ -186,7 +186,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,38 +203,41 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b68466a3ced681f",
+  "active": "59ca0a4d7b1b911c",
   "lastOpenFiles": [
-    "README.md",
-    "problems/0131.分割回文串.md",
     "自己总结/回溯算法.md",
-    "problems/0040.组合总和II.md",
-    "problems/0039.组合总和.md",
-    "problems/0017.电话号码的字母组合.md",
-    "problems/0216.组合总和III.md",
-    "problems/0077.组合优化.md",
-    "problems/0077.组合.md",
-    "problems/回溯算法理论基础.md",
+    "README.md",
+    "未命名.canvas",
+    "算法竞赛从入门到进阶 (罗勇军, 郭卫斌) (Z-Library).pdf",
     "自己总结/二叉树.md",
-    "problems/二叉树总结篇.md",
-    "problems/0538.把二叉搜索树转换为累加树.md",
-    "problems/0108.将有序数组转换为二叉搜索树.md",
     "problems/0669.修剪二叉搜索树.md",
-    "problems/0106.从中序与后序遍历序列构造二叉树.md",
     "未命名.base",
+    "problems/0015.三数之和.md",
+    "problems/0001.两数之和.md",
+    "problems/0450.删除二叉搜索树中的节点.md",
+    "problems/0701.二叉搜索树中的插入操作.md",
+    "problems/0235.二叉搜索树的最近公共祖先.md",
+    "problems/周总结/20201017二叉树周末总结.md",
+    "problems/0236.二叉树的最近公共祖先.md",
+    "problems/0501.二叉搜索树中的众数.md",
+    "problems/0530.二叉搜索树的最小绝对差.md",
+    "problems/0098.验证二叉搜索树.md",
+    "problems/0700.二叉搜索树中的搜索.md",
+    "problems/0617.合并二叉树.md",
+    "problems/0503.下一个更大元素II.md",
+    "problems/周总结/20201010二叉树周末总结.md",
+    "problems/0654.最大二叉树.md",
+    "problems/0106.从中序与后序遍历序列构造二叉树.md",
     "problems/0112.路径总和.md",
     "problems/0513.找树左下角的值.md",
     "problems/0404.左叶子之和.md",
     "problems/周总结/20201003二叉树周末总结.md",
     "problems/0257.二叉树的所有路径.md",
     "problems/0110.平衡二叉树.md",
-    "problems/0222.完全二叉树的节点个数.md",
-    "problems/0111.二叉树的最小深度.md",
-    "problems/0104.二叉树的最大深度.md",
-    "自己总结/栈与队列.md",
     "代码/UOJ_763._树哈希_1.ans.TkkuVT",
     "代码/UOJ_763._树哈希_1.in.ydbfhK",
     "代码/UOJ_763._树哈希.cpp.DEBiGX",
@@ -242,10 +246,8 @@
     "代码/UOJ_763._树哈希.cpp.vuSMmM",
     "代码/UOJ_763._树哈希_1.ans.fnxeSO",
     "代码/UOJ_763._树哈希_1.in.cXuQeb",
-    "代码/UOJ_763._树哈希.cpp.paYKlg",
     "568fd90dec3e671bc6fec03bb0f33a01 1.jpg",
     "568fd90dec3e671bc6fec03bb0f33a01.jpg",
-    "未命名.canvas",
     "1.png"
   ]
 }
