@@ -15,29 +15,14 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "6814cb9a3c3e6838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "problems/0332.重新安排行程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0332.重新安排行程"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9a2b942e2a7d367d",
@@ -90,13 +75,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自己总结/回溯算法.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "回溯算法 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -205,16 +190,30 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54bb7fb12ba04cb1",
+  "active": "baacae476d3dfd1c",
   "lastOpenFiles": [
-    "problems/0332.重新安排行程.md",
+    "problems/0037.解数独.md",
     "自己总结/回溯算法.md",
     "README.md",
-    "problems/回溯算法去重问题的另一种写法.md",
-    "problems/0047.全排列II.md",
+    "problems/0051.N皇后.md",
+    "自己总结/二叉树.md",
+    "未命名.md",
+    "problems/0332.重新安排行程.md",
+    "自己总结/字符串.md",
+    "代码/leetcode_332_重新安排行程_1.in.evthSY",
+    "代码/leetcode_332_重新安排行程.cpp.RVBoye",
+    "代码/leetcode_332_重新安排行程_1.in.TCHsqI",
+    "代码/leetcode_332_重新安排行程.cpp.sEqrSk",
+    "代码/leetcode_332_重新安排行程_1.in.UvmRbS",
+    "代码/leetcode_332_重新安排行程.cpp.xBfBVM",
+    "代码/leetcode_332_重新安排行程_1.in.SmpQxg",
+    "代码/leetcode_332_重新安排行程.cpp.opcZzi",
+    "代码/leetcode_332_重新安排行程_1.in.TvrBvH",
+    "代码/leetcode_332_重新安排行程.cpp.mxmzJk",
     "problems/0046.全排列.md",
     "problems/0491.递增子序列.md",
     "problems/0090.子集II.md",
@@ -224,31 +223,18 @@
     "problems/0093.复原IP地址.md",
     "problems/0005.最长回文子串.md",
     "problems/0131.分割回文串.md",
-    "problems/0037.解数独.md",
-    "自己总结/字符串.md",
-    "算法竞赛从入门到进阶 (罗勇军, 郭卫斌) (Z-Library).pdf",
     "568fd90dec3e671bc6fec03bb0f33a01.jpg",
     "568fd90dec3e671bc6fec03bb0f33a01 1.jpg",
     "problems/0669.修剪二叉搜索树.md",
     "未命名.canvas",
-    "未命名 1.base",
-    "未命名.base",
     "自己总结/栈与队列.md",
     "problems/0347.前K个高频元素.md",
-    "自己总结/二叉树.md",
     "problems/0015.三数之和.md",
     "problems/0001.两数之和.md",
     "problems/0450.删除二叉搜索树中的节点.md",
     "problems/0701.二叉搜索树中的插入操作.md",
     "problems/0235.二叉搜索树的最近公共祖先.md",
     "problems/周总结/20201017二叉树周末总结.md",
-    "代码/UOJ_763._树哈希_1.ans.TkkuVT",
-    "代码/UOJ_763._树哈希_1.in.ydbfhK",
-    "代码/UOJ_763._树哈希.cpp.DEBiGX",
-    "代码/UOJ_763._树哈希_1.ans.rglXnF",
-    "代码/UOJ_763._树哈希_1.in.oshbag",
-    "代码/UOJ_763._树哈希.cpp.vuSMmM",
-    "代码/UOJ_763._树哈希_1.ans.fnxeSO",
     "1.png"
   ]
 }
