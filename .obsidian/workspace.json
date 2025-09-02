@@ -23,17 +23,17 @@
             }
           },
           {
-            "id": "6a1b401b5d835e5b",
+            "id": "6814cb9a3c3e6838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0046.全排列.md",
+                "file": "problems/0332.重新安排行程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0046.全排列"
+              "title": "0332.重新安排行程"
             }
           }
         ],
@@ -205,15 +205,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "54bb7fb12ba04cb1",
   "lastOpenFiles": [
-    "problems/0046.全排列.md",
+    "problems/0332.重新安排行程.md",
     "自己总结/回溯算法.md",
     "README.md",
+    "problems/回溯算法去重问题的另一种写法.md",
+    "problems/0047.全排列II.md",
+    "problems/0046.全排列.md",
     "problems/0491.递增子序列.md",
     "problems/0090.子集II.md",
     "problems/0078.子集.md",
@@ -240,9 +242,6 @@
     "problems/0701.二叉搜索树中的插入操作.md",
     "problems/0235.二叉搜索树的最近公共祖先.md",
     "problems/周总结/20201017二叉树周末总结.md",
-    "problems/0236.二叉树的最近公共祖先.md",
-    "problems/0501.二叉搜索树中的众数.md",
-    "problems/0530.二叉搜索树的最小绝对差.md",
     "代码/UOJ_763._树哈希_1.ans.TkkuVT",
     "代码/UOJ_763._树哈希_1.in.ydbfhK",
     "代码/UOJ_763._树哈希.cpp.DEBiGX",
