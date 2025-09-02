@@ -6,6 +6,7 @@
       {
         "id": "8a53c94116b474a3",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "baacae476d3dfd1c",
@@ -22,17 +23,17 @@
             }
           },
           {
-            "id": "f98295507a3ce006",
+            "id": "6a1b401b5d835e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0078.子集.md",
+                "file": "problems/0046.全排列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0078.子集"
+              "title": "0046.全排列"
             }
           }
         ],
@@ -41,6 +42,7 @@
       {
         "id": "9a2b942e2a7d367d",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "54bb7fb12ba04cb1",
@@ -103,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "回文",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,9 +211,14 @@
   },
   "active": "54bb7fb12ba04cb1",
   "lastOpenFiles": [
-    "problems/0078.子集.md",
+    "problems/0046.全排列.md",
     "自己总结/回溯算法.md",
     "README.md",
+    "problems/0491.递增子序列.md",
+    "problems/0090.子集II.md",
+    "problems/0078.子集.md",
+    "自己总结/常用模板.md",
+    "problems/kamacoder/0047.参会dijkstra堆.md",
     "problems/0093.复原IP地址.md",
     "problems/0005.最长回文子串.md",
     "problems/0131.分割回文串.md",
@@ -226,7 +233,6 @@
     "未命名.base",
     "自己总结/栈与队列.md",
     "problems/0347.前K个高频元素.md",
-    "problems/kamacoder/0047.参会dijkstra堆.md",
     "自己总结/二叉树.md",
     "problems/0015.三数之和.md",
     "problems/0001.两数之和.md",
@@ -237,10 +243,6 @@
     "problems/0236.二叉树的最近公共祖先.md",
     "problems/0501.二叉搜索树中的众数.md",
     "problems/0530.二叉搜索树的最小绝对差.md",
-    "problems/0098.验证二叉搜索树.md",
-    "problems/0700.二叉搜索树中的搜索.md",
-    "problems/0617.合并二叉树.md",
-    "problems/0503.下一个更大元素II.md",
     "代码/UOJ_763._树哈希_1.ans.TkkuVT",
     "代码/UOJ_763._树哈希_1.in.ydbfhK",
     "代码/UOJ_763._树哈希.cpp.DEBiGX",
