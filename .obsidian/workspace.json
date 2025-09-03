@@ -206,8 +206,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "44c6beafa1674ef9",
+  "active": "4b2d117d61f9e233",
   "lastOpenFiles": [
+    "problems/0053.最大子序和.md",
     "README.md",
     "自己总结/贪心算法.md",
     "problems/0376.摆动序列.md",
@@ -246,7 +247,6 @@
     "自己总结/栈与队列.md",
     "problems/0347.前K个高频元素.md",
     "problems/0015.三数之和.md",
-    "problems/0001.两数之和.md",
     "1.png"
   ]
 }
