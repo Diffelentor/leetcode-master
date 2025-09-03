@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "841a3df014a96111",
+            "id": "44c6beafa1674ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problems/0455.分发饼干.md",
+                "file": "problems/0053.最大子序和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0455.分发饼干"
-            }
-          },
-          {
-            "id": "93ffa37cecd7878c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "problems/贪心算法理论基础.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "贪心算法理论基础"
+              "title": "0053.最大子序和"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "376b0cc33e96df78",
@@ -220,12 +206,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "93ffa37cecd7878c",
+  "active": "44c6beafa1674ef9",
   "lastOpenFiles": [
-    "problems/0455.分发饼干.md",
     "README.md",
-    "problems/贪心算法理论基础.md",
     "自己总结/贪心算法.md",
+    "problems/0376.摆动序列.md",
+    "problems/0455.分发饼干.md",
+    "problems/贪心算法理论基础.md",
     "自己总结/回溯算法.md",
     "problems/0037.解数独.md",
     "problems/0051.N皇后.md",
@@ -260,7 +247,6 @@
     "problems/0347.前K个高频元素.md",
     "problems/0015.三数之和.md",
     "problems/0001.两数之和.md",
-    "problems/0450.删除二叉搜索树中的节点.md",
     "1.png"
   ]
 }
